@@ -94,7 +94,7 @@ Um das Anzeigegerät korrekt nachzubauen, werden folgende Materialien, Werkzeuge
 
 ### Software
 
-Die benötigten Skripte befinden sich im folgendem Resository: [Evolition](https://github.com/cbm-instructions/evolition)
+Die benötigten Skripte befinden sich im folgendem Repository: [Evolition](https://github.com/cbm-instructions/evolition)
 
 Zusätzlich sind dort unter SVG die entsprechenden Modelle für den Lasercutter zu finden.
 
