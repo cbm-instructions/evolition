@@ -414,7 +414,10 @@ Hierbei ist es wichtig, darauf zu achten, dass die einzelnen LEDs möglichst par
 
 ## Schritt 13: Raumnummer hinzufügen
 
-<img src="./images/Raumnummer_einhaken/IMG_20240118_134045.webp" alt="Raumnummer einhaken" width="431.3" height="323.3">
+<div style="display: flex; justify-content: space-between;">
+    <img src="./images/Raumnummer/IMG_20240118_134036.webp" alt="Raumnummer" width="431.3" height="323.3">
+    <img src="./images/Raumnummer_einhaken/IMG_20240118_134045.webp" alt="Raumnummer einhaken" width="431.3" height="323.3">
+</div>
 
 **Benötigte Materialien und Werkzeuge**:
 
@@ -430,10 +433,7 @@ Hierbei ist es wichtig, darauf zu achten, dass die einzelnen LEDs möglichst par
 
 # Funktionsweise
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="./images/Raumnummer/IMG_20240118_134036.webp" alt="Raumnummer" width="431.3" height="323.3">
-    <img src="./images/Funktion_ToF_Sensor/bild_iexpo-removebg-preview_1.webp" alt="Funktionsweise ToF">
-</div>
+<img src="./images/Funktion_ToF_Sensor/bild_iexpo-removebg-preview_1.webp" alt="Funktionsweise ToF">
 
 Der Time-of-Flight (ToF) wird normalerweise zur Messung der Entfernung zwischen einem Sensor und einem Objekt genutzt. Der ToF-Sensor sendet Lichtimpulse, welche im Infrarotbereich liegen, da menschliche Augen nicht empfindlich für Infrarotlicht sind.
 Anschließend wird berechnet, wie lange das Licht benötigt, vom Sensor zum Objekt und anschließend wieder zum Sensor zu gelangen. Der Sensor kann so berechnen, wie groß die Entfernung zu einem Objekt ist.
